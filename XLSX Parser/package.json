@@ -1,0 +1,17 @@
+{
+  "name": "xlsx-parser",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "dateformat": "^5.0.3",
+    "docx-builder": "^1.0.7",
+    "node-xlsx": "^0.23.0"
+  },
+  "description": ""
+}

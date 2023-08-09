@@ -1,3 +1,3 @@
 # xlsx2docx
 
-Process .xls text into .doc files
+From .xls cell value into .doc files
